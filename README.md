@@ -19,9 +19,9 @@ I loved programming. I am full stack web developer in PHP and LARAVEL. I love le
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rubel9997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rubel9997" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubel9997/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rubel9997/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rubel9997/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rubel9997/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rubel99977/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rubel99977/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rubel9997/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rubel9997/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rubel9997/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rubel9997/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rubel99977/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rubel99977/" height="30" width="40" /></a>
 </p>
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
