@@ -10,7 +10,7 @@ I am **Rubel Mahamud**. I have completed Diploma in Engineering Degree in the De
 I loved programming. I am full stack web developer in PHP and LARAVEL. I love learning something new every day. Currently not employed, developing skills. Looking for an opportunity in an organization.
 
 
-- 😎 Name pronunciation: **RU-BEL**
+- 😎 Name pronunciation: **Roo-bell**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I look like a tall pumpkin.
 
