@@ -7,7 +7,7 @@
 <br>
 
 I am **Rubel Mahamud**. I have completed Diploma in Engineering Degree in the Department of Computer Technology from Lakshmipur Polytechnic Institute.
-I loved programming. I am full stack web developer in PHP and LARAVEL. I love learning something new every day. Currently not employed, developing skills. Looking for an opportunity in an organization.
+I loved programming. I am full stack web developer in PHP and LARAVEL. I love learning something new every day.
 
 
 - 😎 Name pronunciation: **Roo-bell**
