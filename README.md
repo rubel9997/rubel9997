@@ -27,8 +27,8 @@ I loved programming. I am full stack web developer in PHP and LARAVEL. I love le
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on *Personal Projects*
-- 🌱 I’m currently learning *Laravel* and *React js*
+- 🔭 I’m currently working on *ICT EURO Ltd*
+- 🌱 I’m currently learning *Laravel* and *Vue js*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *Laravel*
 - 💬 Ask me about anything at [@rubel9997](https://twitter.com/rubel9997)
